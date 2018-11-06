@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Star Wars Sounds</string>
+    <string-array name="sound_names">
+        <item>Breath of\nDart Vader</item>
+        <item>R2D2</item>
+        <item>Star Wars\n8 bit</item>
+        <item>Star Wars\nRemix</item>
+        <item>Star Wars\nRobochicken</item>
+        <item>Star Wars\nModern</item>
+        <item>The Old\nRepublic</item>
+        <item>Im your\nfather</item>
+        <item>Imperial\nfighter</item>
+        <item>Lazer\nsword</item>
+        <item>Star Wars\nAngry Birds</item>
+        <item>Star Wars\nRap</item>
+        <item>R2D2 Mix</item>
+        <item>Star Wars\nDance</item>
+        <item>Star Wars\nClassical</item>
+    </string-array>
+</resources>

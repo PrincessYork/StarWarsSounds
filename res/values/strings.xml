@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Звуки звездных войн</string>
+    <string-array name="sound_names">
+        <item>Дыхание\nВейдера</item>
+        <item>R2D2</item>
+        <item>Star Wars\n8 бит</item>
+        <item>Star Wars\nРемикс</item>
+        <item>Star Wars\nРобоцып</item>
+        <item>Star Wars\nСовременный</item>
+        <item>The Old\nRepublic</item>
+        <item>Я твой\nотец</item>
+        <item>Имперский\nистребитель</item>
+        <item>Световой\nмеч</item>
+        <item>Star Wars\nAngry Birds</item>
+        <item>Star Wars\nРэп</item>
+        <item>R2D2 Микс</item>
+        <item>Star Wars\nТанцы</item>
+        <item>Star Wars\nКлассика</item>
+    </string-array>
+</resources>
